@@ -1,1 +1,10 @@
 .DS_Store
+.env
+.env.*
+!.env.example
+*.pem
+*.p8
+*.p12
+*.key
+*.mobileprovision
+*Secrets.xcconfig
